@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textView2" type="id" />
+    <item name="btn_link_new_movie" type="id" />
+    <item name="card_view_star_wars" type="id" />
+    <item name="imageView" type="id" />
+    <item name="edit_text_calification" type="id" />
+    <item name="btn_submit" type="id" />
+    <item name="edit_text_description" type="id" />
+    <item name="edit_text_category" type="id" />
+    <item name="edit_text_name" type="id" />
+    <item name="linearLayout" type="id" />
+</resources>
