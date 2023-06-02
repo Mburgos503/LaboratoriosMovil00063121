@@ -10,6 +10,7 @@
         android:name="com.example.laboratorio_07.ui.movie.MovieFragment"
         android:label="fragment_movie"
         tools:layout="@layout/fragment_movie" />
+
     <fragment
         android:id="@+id/newMovieFragment"
         android:name="com.example.laboratorio_07.ui.movie.NewMovieFragment"
@@ -19,6 +20,8 @@
             android:id="@+id/action_newMovieFragment_to_billBoardFragment"
             app:destination="@id/billBoardFragment" />
     </fragment>
+
+
     <fragment
         android:id="@+id/billBoardFragment"
         android:name="com.example.laboratorio_07.ui.movie.BillBoardFragment"
